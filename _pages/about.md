@@ -1,6 +1,7 @@
 ---
-layout: archive
+title: "About"
+layout: single
+excerpt: "About"
+sitemap: true
 permalink: /about/
-title: "Works"
-author_profile: true
 ---
